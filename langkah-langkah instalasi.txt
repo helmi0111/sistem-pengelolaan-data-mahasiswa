@@ -1,0 +1,7 @@
+1. Buat sebuah repository baru pada github.
+2. Lakukan inisialisasi pada project yang sudah dibuat dengan perintah "git init" pada terminal.
+3. Tambahkan semua perubahan ke staging area dengan perintah "git add" pada terminal.
+4. Simpan perubahan dengan perintah "git commit" agar project bisa di push ke repository yang sudah dibuat.
+5. Menambahkan link remote agar project local dan repository dapat terhubung dengan perintah "git remote".
+6. Kirim perubahan ke repository dengan perintah "git push origin main".
+7. Project sudah masuk kedalam repository github kita.
